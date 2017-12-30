@@ -1,2 +1,2 @@
 # Quadratic-Formula-Program
-A Program that Calculates Quadratic Equation in C++
+A Program that Calculates Quadratic Equation in JAVA/ NOT C++
